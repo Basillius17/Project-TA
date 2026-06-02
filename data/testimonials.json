@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Dita Pramesti",
+        "role": "Guru & Pendidik Digital",
+        "avatar": "D",
+        "rating": 5,
+        "message": "New Educators benar-benar mengubah cara saya mengajar. Setelah baca buku ini, kelas saya jadi jauh lebih interaktif dan murid-murid semakin antusias belajar!"
+    },
+    {
+        "id": 2,
+        "name": "Arya Nugraha",
+        "role": "Software Engineer",
+        "avatar": "A",
+        "rating": 5,
+        "message": "Python Programming for Beginners adalah buku terbaik untuk mulai coding. Dalam 2 bulan saya sudah bisa bikin project sendiri — penjelasannya sangat mudah dipahami!"
+    },
+    {
+        "id": 3,
+        "name": "Sinta Maharani",
+        "role": "Content Creator & Digital Marketer",
+        "avatar": "S",
+        "rating": 5,
+        "message": "Instagram Growth Mistery luar biasa! Follower akun bisnis saya naik dari 2.000 ke 25.000 dalam 4 bulan setelah menerapkan blueprint di buku ini. Worth every rupiah!"
+    },
+    {
+        "id": 4,
+        "name": "Budi Kurniawan",
+        "role": "Manajer & Business Leader",
+        "avatar": "B",
+        "rating": 5,
+        "message": "Inclusive Leadership in Action lengkap banget. Tim saya sekarang jauh lebih solid dan produktif setelah saya terapkan framework kepemimpinan dari buku ini."
+    },
+    {
+        "id": 5,
+        "name": "Rara Kusumawati",
+        "role": "Mahasiswa & Investor Muda",
+        "avatar": "R",
+        "rating": 5,
+        "message": "Investing for Teens & Young Adults cocok banget buat saya yang baru mulai investasi. Sekarang portofolio saya sudah tumbuh dan saya makin percaya diri kelola keuangan sendiri!"
+    },
+    {
+        "id": 6,
+        "name": "Fariz Ramadhan",
+        "role": "Pemilik Bisnis Online",
+        "avatar": "F",
+        "rating": 4,
+        "message": "TikTok Marketing for Beginners benar-benar membantu bisnis saya. Konten TikTok saya tembus 500rb views setelah pakai strategi di buku ini. Rekomendasikan untuk semua pebisnis!"
+    }
+]
